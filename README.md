@@ -2,6 +2,6 @@
 
 Run
 
-1.npm i
+npm i
 
-2.npm run mine
+npm run mine
