@@ -2,6 +2,6 @@
 
 Run
 
-npm i
+    npm i
 
-npm run mine
+    npm run mine
